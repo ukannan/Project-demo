@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringRESTProducer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ukannan
+Implementation-Vendor-Id: SampleProject
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/SpringRESTPr
+ oducer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
